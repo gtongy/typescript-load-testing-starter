@@ -16,7 +16,7 @@
     "date-fns": "^2.16.1"
   },
   "devDependencies": {
-    "@types/k6": "0.25.1",
+    "@types/k6": "0.54.1",
     "@types/node": "13.13.38",
     "@babel/cli": "7.12.10",
     "@babel/core": "7.12.10",

@@ -907,10 +907,10 @@
   resolved "https://registry.yarnpkg.com/@types/json-schema/-/json-schema-7.0.6.tgz#f4c7ec43e81b319a9815115031709f26987891f0"
   integrity sha512-3c+yGKvVP5Y9TYBEibGNR+kLtijnj7mYrXRg+WpFb2X9xm04g/DXYkfg4hmzJQosc9snFNUPkbYIhu+KAm6jJw==
 
-"@types/k6@0.25.1":
-  version "0.25.1"
-  resolved "https://registry.yarnpkg.com/@types/k6/-/k6-0.25.1.tgz#c97c0550214a8f10eaf7cca61a0f729212a651ab"
-  integrity sha512-mZ5owX4T7fSaHUOTY58YoHDUf7kFrWgv72QO9rTnevBsQ/mG+E3O5ONWPXMDw/23XTmOhofFA/FXq7R4wPwH6Q==
+"@types/k6@0.54.1":
+  version "0.54.1"
+  resolved "https://registry.yarnpkg.com/@types/k6/-/k6-0.54.1.tgz#8767bddd51b8bb1a451d5af14baf14c7dcd977c4"
+  integrity sha512-ezTMhuWr3TZIMOqAv51/4rD5T4FE1pSryrh5BCgxsniuqxbi5jQ3YEiOlO9C1+LvJcliC2byyd2Cw6cnUY7CLg==
 
 "@types/node@13.13.38":
   version "13.13.38"
